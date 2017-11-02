@@ -1,0 +1,117 @@
+/** ------------------------------------------------------------
+ *
+ * Theme: anax-base
+ */
+@magicNumber: 22px;
+
+@import url(navbar.less);
+@import url(link-list.less);
+
+body {
+    color: #333;
+    font-family: arial, sans-serif;
+    overflow-y: scroll;
+}
+
+h1 {
+    font-size: 2.2em;
+}
+
+
+
+/** ------------------------------------------------------------
+ *
+ * Layout of the main page elements 
+ */
+.wrapper {
+    margin: 0 auto;
+    width: 980px; 
+    padding: 10px;
+}
+
+
+
+/** ------------------------------------------------------------
+ *
+ * Layout for header
+ */
+.siteheader {
+    position: relative;
+    margin-bottom: 22px;
+}
+
+.sitetitle {
+    position: absolute;
+    //top: 6px;
+    //left: 130px;
+    font-size: 48px;
+}
+
+.siteslogan {
+    position: absolute;
+    top: 65px;
+    //left: 130px;
+    font-style: italic;
+    color: #666;
+}
+
+
+
+/** ------------------------------------------------------------
+ *
+ * Layout for main
+ */
+.main {
+    min-height: 20em;
+}
+
+
+
+/** ------------------------------------------------------------
+ *
+ * Layout for footer
+ */
+@footerColor: #666;
+
+.sitefooter {
+    margin-top: 40px;
+    border-top: 1px solid #ccc;
+    padding-top: @magicNumber;
+    color: @footerColor;
+    
+    a {
+        color: inherit;
+        
+        &:hover {
+            text-decoration: none;
+        }
+    }
+}
+
+
+
+/** ------------------------------------------------------------
+ *
+ * For articles
+ */
+.article1 {
+    width: 700px;
+    border-right: 1px solid #ccc;
+    padding-right: 1em;
+
+    h1,
+    h2 {
+        border-bottom: 1px solid #ccc;
+    }
+}
+
+.byline {
+    margin-top: 44px;
+    border-top: 1px dashed #ccc;
+    padding-top: 22px;
+    color: #666;
+}
+
+.byline p {
+    margin-top: 0;
+}

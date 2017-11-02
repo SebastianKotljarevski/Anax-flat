@@ -1,0 +1,170 @@
+<?php
+
+namespace Anax\Content;
+
+/**
+ * Pages based on file content.
+ */
+class CFileBasedContent
+{
+    use \Anax\TConfigure,
+        \Anax\DI\TInjectionAware;
+
+
+
+    /**
+     * Properties.
+     */
+    private $index = null;
+    private $ignoreCache = false;
+
+
+
+    /**
+     * Should the cache be used or ignored.
+     *
+     * @param boolean $use true to use the cache or false to ignore the cache.
+     *
+     * @return this.
+     */
+    public function useCache($use)
+    {
+        $this->ignoreCache = !$use;
+
+        return $this;
+    }
+
+
+
+    /**
+     * Get the index as an array.
+     *
+     * @return array as index.
+     */
+    public function getIndex()
+    {
+        return $this->loadIndex();
+    }
+
+
+
+    /**
+     * Create the index of all content into an array.
+     *
+     * @return array as index.
+     */
+    private function loadIndex()
+    {
+        if ($this->index) {
+            return $this->index;
+        }
+
+        $key = $this->di->cache->createKey(__CLASS__, "index");
+        $this->index = $this->di->cache->get($key);
+
+        if (!$this->index || $this->ignoreCache) {
+            $this->index = $this->createIndex();
+            $this->di->cache->put($key, $this->index);
+        }
+
+        return $this->index;
+    }
+
+
+
+    /**
+     * Generate an index from the directory structure.
+     *
+     * @return array as table of content.
+     */
+    private function createIndex()
+    {
+        $basepath   = $this->config["basepath"];
+        $pattern    = $this->config["pattern"];
+        $path       = "$basepath/$pattern";
+        
+        $index = [];
+        foreach (glob_recursive($path) as $file) {
+            $filepath = substr($file, strlen($basepath) + 1);
+
+            $matches = [];
+            preg_match("#^(\d*)_*([^\.]+)\.md$#", basename($filepath), $matches);
+            $dirpart = dirname($filepath) . "/";
+            if ($dirpart === "./") {
+                $dirpart = null;
+            }
+            $key = $dirpart . $matches[2];
+
+            $index[$key] = [
+                "file"    => $filepath,
+                "section" => $matches[1]
+            ];
+        }
+
+        return $index;
+    }
+
+
+
+    /**
+     * Map the route to the correct entry in the index.
+     *
+     * @param string $route current route used to access page.
+     *
+     * @return string as the title for the content.
+     */
+    private function mapRoute2Index($route)
+    {
+        if (key_exists($route, $this->index)) {
+            return $this->index[$route];
+        } elseif (empty($route) && key_exists("index", $this->index)) {
+            return $this->index["index"];
+        } elseif (key_exists($route . "/index", $this->index)) {
+            return $this->index["$route/index"];
+        }
+
+        throw new \Anax\Exception\NotFoundException(t("The content does not exists in the index."));
+    }
+
+
+
+    /**
+     * Map url to content if such mapping can be done.
+     *
+     * @throws NotFoundException when mapping can not be done.
+     */
+    public function contentForRoute()
+    {
+        // Settings from config
+        $basepath = $this->config["basepath"];
+        $filter   = $this->config["textfilter"];
+
+        // Get the route
+        $route = $this->di->request->getRoute();
+
+        // Load index and map route to entry
+        $this->loadIndex();
+        $content = $this->mapRoute2Index($route);
+
+        // Whole path to file
+        $path = $basepath . "/" . $content["file"];
+        $content["path"] = $path;
+
+        // Load content from file
+        if (!is_file($path)) {
+            throw new \Anax\Exception\NotFoundException(t("The content does not exists as a file."));
+        }
+        $src = file_get_contents($path);
+        $content["src"] = $src;
+
+        // Get filtered content
+        $filtered = $this->di->textFilter->parse($src, $filter);
+        //$frontmatter = $this->di->textFilter->yamlFrontMatter($src);
+
+        $content["frontmatter"] = $filtered->frontmatter;
+        $content["text"]        = $filtered->text;
+
+        return (object) $content;
+    }
+}
+

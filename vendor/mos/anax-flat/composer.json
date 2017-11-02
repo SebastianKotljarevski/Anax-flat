@@ -1,0 +1,29 @@
+{
+    "name": "mos/anax-flat",
+    "type": "library",
+    "description": "PHP flat CMS based on Anax.",
+    "keywords": ["boilerplate", "framework", "cms", "flat", "mvc", "micro", "education"],
+    "homepage": "http://dbwebb.se",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mikael Roos",
+            "email": "mos@dbwebb.se",
+            "homepage": "http://dbwebb.se",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/canax/anax-flat/issues"
+    },
+    "require": {
+        "mos/anax": "^2.5",
+        "mos/ctextfilter": "^1.2",
+        "mos/cimage": "^0.7",
+        "symfony/yaml": "^3.1"
+    },
+    "suggest": {
+        "ext-yaml": "*",
+        "mustangostang/spyc": "^0.6"
+    }
+}

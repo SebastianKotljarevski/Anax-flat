@@ -1,0 +1,35 @@
+{
+    "name": "mos/anax",    
+    "type": "library",
+    "description": "PHP framework to create websites, web applications and web services.",
+    "keywords": ["boilerplate", "framework", "mvc", "micro", "education"],
+    "homepage": "http://dbwebb.se",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mikael Roos",
+            "email": "mos@dbwebb.se",
+            "homepage": "http://dbwebb.se",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/mosbth/anax/issues"
+    },
+    "autoload": {
+        "psr-4": { 
+            "Anax\\": "src/"
+        },
+        "files": [
+            "src/functions.php"
+        ]
+    },
+    "require": {
+        "php": ">=5.6"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "2.5.x-dev"
+        }
+    }
+}

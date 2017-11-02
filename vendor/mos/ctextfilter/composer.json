@@ -1,0 +1,39 @@
+{
+    "name": "mos/ctextfilter",    
+    "type": "library",
+    "description": "PHP classes for text filtering and formatting to HTML",
+    "keywords": ["bbcode", "shortcode", "markdown", "education", "yaml front matter", "json front matter", "html purifier"],
+    "homepage": "http://dbwebb.se",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mikael Roos",
+            "email": "mos@dbwebb.se",
+            "homepage": "http://mikaelroos.se",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": { 
+            "Mos\\TextFilter\\": "src/TextFilter"
+        }
+    },
+    "require": {
+        "php": ">=5.4",
+        "michelf/php-markdown": "1.6.*",
+        "michelf/php-smartypants": "1.6.*",
+        "ezyang/htmlpurifier": "4.*",
+        "scrivo/highlight.php": "^9.0"
+    },
+    "suggest": {
+        "ext-json": "*",
+        "ext-yaml": "*",
+        "symfony/yaml": "^3.1",
+        "mustangostang/spyc": "^0.6"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.2.x-dev"
+        }
+    }
+}
