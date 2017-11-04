@@ -1,21 +1,21 @@
-O:8:"stdClass":7:{s:4:"file";s:8:"index.md";s:7:"section";s:0:"";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:0;s:5:"views";a:3:{s:10:"breadcrumb";a:3:{s:6:"region";s:10:"breadcrumb";s:8:"template";s:18:"default/breadcrumb";s:4:"data";a:2:{s:4:"meta";a:1:{s:4:"type";s:10:"breadcrumb";}s:10:"breadcrumb";a:1:{i:0;a:2:{s:3:"url";s:0:"";s:4:"text";s:4:"Home";}}}}s:5:"flash";a:3:{s:6:"region";s:5:"flash";s:8:"template";s:13:"default/image";s:4:"data";a:1:{s:3:"src";s:18:"img/dbwebbisar.jpg";}}s:4:"main";a:2:{s:8:"template";s:15:"default/article";s:4:"data";a:3:{s:15:"titleBreadcrumb";s:4:"Home";s:7:"content";s:248:"<h1>A website using Anax Flat</h1>
+O:8:"stdClass":7:{s:4:"file";s:8:"index.md";s:7:"section";s:0:"";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:0;s:5:"views";a:3:{s:10:"breadcrumb";a:3:{s:6:"region";s:10:"breadcrumb";s:8:"template";s:18:"default/breadcrumb";s:4:"data";a:2:{s:4:"meta";a:1:{s:4:"type";s:10:"breadcrumb";}s:10:"breadcrumb";a:1:{i:0;a:2:{s:3:"url";s:0:"";s:4:"text";s:4:"Home";}}}}s:5:"flash";a:3:{s:6:"region";s:5:"flash";s:8:"template";s:13:"default/image";s:4:"data";a:1:{s:3:"src";s:16:"img/pattern3.jpg";}}s:4:"main";a:2:{s:8:"template";s:15:"default/article";s:4:"data";a:4:{s:15:"titleBreadcrumb";s:4:"Home";s:4:"data";a:1:{s:3:"src";s:15:"img/pattern.jpg";}s:7:"content";s:817:"<h1>Me-sida</h1>
 
-<p>Hello!</p>
+<p><img src="http://localhost:8080/design/me/anax-flat/htdocs/img/berg.jpg" alt="me" width="250px"></p>
 
-<p>I am just trying to edit the text.</p>
+<p>Jag heter Sebastian Kullander, 20 år och är född och uppväxt i en liten ort utanför Stockholm. Just nu bor jag i Karlskrona, Rödeby och studerar Webbprogrammering på Blekinge Tekniska Högskola. På fritiden gillar jag att kolla på fotboll och hockey, men bara om Djurgården spelar. annars gillar jag att sitta framför datorn. Mina tidigare erfarenheter av programmering skulle jag säga att dem är grundläggande.</p>
 
-<p>This is a website created using Anax Flat as a base. This is the base website to be used in the dbwebb course <em>design</em>.</p>
+<div style="width:350px; height:100px; background-color:gray;">
+    <img style="float:left;" src="http://localhost:8080/design/me/anax-flat/htdocs/img/berg.jpg" alt="me" width="125px;">
+    Sebastian Kullander, studerar på Blekinge tekniska högskola.
+</div>
+";s:7:"excerpt";s:817:"<h1>Me-sida</h1>
 
-<p>Cheers
-/Seb</p>
-";s:7:"excerpt";s:248:"<h1>A website using Anax Flat</h1>
+<p><img src="http://localhost:8080/design/me/anax-flat/htdocs/img/berg.jpg" alt="me" width="250px"></p>
 
-<p>Hello!</p>
+<p>Jag heter Sebastian Kullander, 20 år och är född och uppväxt i en liten ort utanför Stockholm. Just nu bor jag i Karlskrona, Rödeby och studerar Webbprogrammering på Blekinge Tekniska Högskola. På fritiden gillar jag att kolla på fotboll och hockey, men bara om Djurgården spelar. annars gillar jag att sitta framför datorn. Mina tidigare erfarenheter av programmering skulle jag säga att dem är grundläggande.</p>
 
-<p>I am just trying to edit the text.</p>
-
-<p>This is a website created using Anax Flat as a base. This is the base website to be used in the dbwebb course <em>design</em>.</p>
-
-<p>Cheers
-/Seb</p>
-";}}}s:11:"frontmatter";a:2:{s:15:"titleBreadcrumb";s:4:"Home";s:5:"title";s:25:"A website using Anax Flat";}}
+<div style="width:350px; height:100px; background-color:gray;">
+    <img style="float:left;" src="http://localhost:8080/design/me/anax-flat/htdocs/img/berg.jpg" alt="me" width="125px;">
+    Sebastian Kullander, studerar på Blekinge tekniska högskola.
+</div>
+";}}}s:11:"frontmatter";a:3:{s:15:"titleBreadcrumb";s:4:"Home";s:4:"data";a:1:{s:3:"src";s:15:"img/pattern.jpg";}s:5:"title";s:7:"Me-sida";}}

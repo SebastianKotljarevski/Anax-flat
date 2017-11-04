@@ -1,4 +1,4 @@
 Contact
 ==============================================
 
-Any questions about this site can be emailed to [Mikael Roos](https://mikaelroos.se) on (mos@dbwebb.se).
+Phone: 0761340076 Email: kvakod@gmail.com

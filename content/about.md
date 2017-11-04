@@ -1,12 +1,8 @@
-About this site
-==============================================
+<img src="img/questionmark.jpg" alt="me" width="25px">
 
-The primary focus of this site is to:
+Detta är min me-sida för kursen design.
 
-* To be used in teaching the [dbwebb course design](http://dbwebb.se/design).
-
-The source for this site is available on GitHub in [canax/anax-flat](git@github.com:canax/anax-flat.git).
-
-This site is produced by [Mikael Roos](https://mikaelroos.se) (mos@dbwebb.se).
-
-changing text
+Click me
+<a href="https://github.com/SebastianKotljarevski/Anax-flat">
+<img src="img/github.png" width="150px">
+</a>

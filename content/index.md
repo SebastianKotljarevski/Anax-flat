@@ -1,14 +1,19 @@
 ---
 titleBreadcrumb: Home
+
+data:
+    src: "img/pattern.jpg"
+
 ...
-A website using Anax Flat
+Me-sida
 ===============================
 
-Hello!
+<img src="img/berg.jpg" alt="me" width="250px">
 
-I am just trying to edit the text.
 
-This is a website created using Anax Flat as a base. This is the base website to be used in the dbwebb course *design*.
+Jag heter Sebastian Kullander, 20 år och är född och uppväxt i en liten ort utanför Stockholm. Just nu bor jag i Karlskrona, Rödeby och studerar Webbprogrammering på Blekinge Tekniska Högskola. På fritiden gillar jag att kolla på fotboll och hockey, men bara om Djurgården spelar. annars gillar jag att sitta framför datorn. Mina tidigare erfarenheter av programmering skulle jag säga att dem är grundläggande.
 
-Cheers
-/Seb
+<div style="width:350px; height:100px; background-color:gray;">
+    <img style="float:left;" src="img/berg.jpg" alt="me" width="125px;">
+    Sebastian Kullander, studerar på Blekinge tekniska högskola.
+</div>

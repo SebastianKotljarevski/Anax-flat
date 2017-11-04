@@ -1,27 +1,17 @@
-O:8:"stdClass":7:{s:4:"file";s:8:"about.md";s:7:"section";s:0:"";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:0;s:5:"views";a:3:{s:10:"breadcrumb";a:3:{s:6:"region";s:10:"breadcrumb";s:8:"template";s:18:"default/breadcrumb";s:4:"data";a:2:{s:4:"meta";a:1:{s:4:"type";s:10:"breadcrumb";}s:10:"breadcrumb";a:1:{i:0;a:2:{s:3:"url";s:5:"about";s:4:"text";s:15:"About this site";}}}}s:5:"flash";a:3:{s:6:"region";s:5:"flash";s:8:"template";s:13:"default/image";s:4:"data";a:1:{s:3:"src";s:18:"img/dbwebbisar.jpg";}}s:4:"main";a:2:{s:8:"template";s:15:"default/article";s:4:"data";a:2:{s:7:"content";s:483:"<h1>About this site</h1>
+O:8:"stdClass":7:{s:4:"file";s:8:"about.md";s:7:"section";s:0:"";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:0;s:5:"views";a:3:{s:10:"breadcrumb";a:3:{s:6:"region";s:10:"breadcrumb";s:8:"template";s:18:"default/breadcrumb";s:4:"data";a:2:{s:4:"meta";a:1:{s:4:"type";s:10:"breadcrumb";}s:10:"breadcrumb";a:1:{i:0;a:2:{s:3:"url";s:5:"about";s:4:"text";N;}}}}s:5:"flash";a:3:{s:6:"region";s:5:"flash";s:8:"template";s:13:"default/image";s:4:"data";a:1:{s:3:"src";s:16:"img/pattern3.jpg";}}s:4:"main";a:2:{s:8:"template";s:15:"default/article";s:4:"data";a:2:{s:7:"content";s:335:"<p><img src="http://localhost:8080/design/me/anax-flat/htdocs/img/questionmark.jpg" alt="me" width="25px"></p>
 
-<p>The primary focus of this site is to:</p>
+<p>Detta är min me-sida för kursen design.</p>
 
-<ul>
-<li>To be used in teaching the <a href="http://dbwebb.se/design">dbwebb course design</a>.</li>
-</ul>
+<p>Click me
+<a href="https://github.com/SebastianKotljarevski/Anax-flat">
+<img src="http://localhost:8080/design/me/anax-flat/htdocs/img/github.png" width="150px">
+</a></p>
+";s:7:"excerpt";s:335:"<p><img src="http://localhost:8080/design/me/anax-flat/htdocs/img/questionmark.jpg" alt="me" width="25px"></p>
 
-<p>The source for this site is available on GitHub in <a href="http://localhost:8080/design/me/anax-flat/htdocs/index.php/git@github.com:canax/anax-flat.git">canax/anax-flat</a>.</p>
+<p>Detta är min me-sida för kursen design.</p>
 
-<p>This site is produced by <a href="https://mikaelroos.se">Mikael Roos</a> (mos@dbwebb.se).</p>
-
-<p>changing text</p>
-";s:7:"excerpt";s:483:"<h1>About this site</h1>
-
-<p>The primary focus of this site is to:</p>
-
-<ul>
-<li>To be used in teaching the <a href="http://dbwebb.se/design">dbwebb course design</a>.</li>
-</ul>
-
-<p>The source for this site is available on GitHub in <a href="http://localhost:8080/design/me/anax-flat/htdocs/index.php/git@github.com:canax/anax-flat.git">canax/anax-flat</a>.</p>
-
-<p>This site is produced by <a href="https://mikaelroos.se">Mikael Roos</a> (mos@dbwebb.se).</p>
-
-<p>changing text</p>
-";}}}s:11:"frontmatter";a:1:{s:5:"title";s:15:"About this site";}}
+<p>Click me
+<a href="https://github.com/SebastianKotljarevski/Anax-flat">
+<img src="http://localhost:8080/design/me/anax-flat/htdocs/img/github.png" width="150px">
+</a></p>
+";}}}s:11:"frontmatter";a:1:{s:5:"title";N;}}
