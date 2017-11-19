@@ -2,7 +2,5 @@
 
 Detta är min me-sida för kursen design.
 
-Click me
-<a href="https://github.com/SebastianKotljarevski/Anax-flat">
-<img src="img/github.png" width="150px">
-</a>
+<a href="https://github.com/SebastianKotljarevski/Anax-flat">Repo för Anax-flat.</a>
+<a href="https://github.com/SebastianKotljarevski/Anax-flat">Repo för Theme.</a>

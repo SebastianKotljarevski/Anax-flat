@@ -8,9 +8,9 @@ class ComposerStaticIniteccccdf37260d98d5d15d08722fe05e7
 {
     public static $files = array (
         '2cffec82183ee1cea088009cef9a6fc3' => __DIR__ . '/..' . '/ezyang/htmlpurifier/library/HTMLPurifier.composer.php',
+        '80664c7f22a8ea27bde46f1ed932afe6' => __DIR__ . '/..' . '/mos/anax/src/functions.php',
         'dfc9e5dd545737efbb98020db79bfa08' => __DIR__ . '/..' . '/mos/cimage/defines.php',
         '507fe79d3e285fab95fad400b8d42245' => __DIR__ . '/..' . '/mos/cimage/functions.php',
-        '80664c7f22a8ea27bde46f1ed932afe6' => __DIR__ . '/..' . '/mos/anax/src/functions.php',
     );
 
     public static $prefixLengthsPsr4 = array (

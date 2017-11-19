@@ -57,68 +57,6 @@
         "homepage": "https://symfony.com"
     },
     {
-        "name": "mos/cimage",
-        "version": "v0.7.19",
-        "version_normalized": "0.7.19.0",
-        "source": {
-            "type": "git",
-            "url": "https://github.com/mosbth/cimage.git",
-            "reference": "f9604518e478a5097f29f991b61ba8ee36e7e5ba"
-        },
-        "dist": {
-            "type": "zip",
-            "url": "https://api.github.com/repos/mosbth/cimage/zipball/f9604518e478a5097f29f991b61ba8ee36e7e5ba",
-            "reference": "f9604518e478a5097f29f991b61ba8ee36e7e5ba",
-            "shasum": ""
-        },
-        "require": {
-            "ext-gd": "*",
-            "php": ">=5.3"
-        },
-        "suggest": {
-            "ext-curl": "*",
-            "ext-exif": "*",
-            "ext-imagick": "*"
-        },
-        "time": "2017-03-30T22:47:55+00:00",
-        "type": "library",
-        "installation-source": "dist",
-        "autoload": {
-            "files": [
-                "defines.php",
-                "functions.php"
-            ],
-            "classmap": [
-                "CImage.php",
-                "CHttpGet.php",
-                "CRemoteImage.php",
-                "CWhitelist.php",
-                "CAsciiArt.php",
-                "CCache.php",
-                "CFastTrackCache.php"
-            ]
-        },
-        "notification-url": "https://packagist.org/downloads/",
-        "license": [
-            "MIT"
-        ],
-        "authors": [
-            {
-                "name": "Mikael Roos",
-                "email": "me@mikaelroos.se",
-                "homepage": "http://mikaelroos.se",
-                "role": "Developer"
-            }
-        ],
-        "description": "Process, scale, resize, crop and filter images.",
-        "homepage": "http://dbwebb.se/opensource/cimage",
-        "keywords": [
-            "gd",
-            "image",
-            "imageprocessing"
-        ]
-    },
-    {
         "name": "scrivo/highlight.php",
         "version": "v9.0.0",
         "version_normalized": "9.0.0.0",
@@ -435,31 +373,94 @@
         ]
     },
     {
-        "name": "mos/anax-flat",
-        "version": "v1.1.6",
-        "version_normalized": "1.1.6.0",
+        "name": "mos/cimage",
+        "version": "v0.7.20",
+        "version_normalized": "0.7.20.0",
         "source": {
             "type": "git",
-            "url": "https://github.com/canax/anax-flat.git",
-            "reference": "79d3a6023fe88bca1783e29a7247bcdd297ae7a5"
+            "url": "https://github.com/mosbth/cimage.git",
+            "reference": "cd142c58806c8edb6164a12a20e120eb7f436dfb"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/canax/anax-flat/zipball/79d3a6023fe88bca1783e29a7247bcdd297ae7a5",
-            "reference": "79d3a6023fe88bca1783e29a7247bcdd297ae7a5",
+            "url": "https://api.github.com/repos/mosbth/cimage/zipball/cd142c58806c8edb6164a12a20e120eb7f436dfb",
+            "reference": "cd142c58806c8edb6164a12a20e120eb7f436dfb",
+            "shasum": ""
+        },
+        "require": {
+            "ext-gd": "*",
+            "php": ">=5.3"
+        },
+        "suggest": {
+            "ext-curl": "*",
+            "ext-exif": "*",
+            "ext-imagick": "*"
+        },
+        "time": "2017-11-06T09:24:47+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "files": [
+                "defines.php",
+                "functions.php"
+            ],
+            "classmap": [
+                "CImage.php",
+                "CHttpGet.php",
+                "CRemoteImage.php",
+                "CWhitelist.php",
+                "CAsciiArt.php",
+                "CCache.php",
+                "CFastTrackCache.php"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Mikael Roos",
+                "email": "me@mikaelroos.se",
+                "homepage": "http://mikaelroos.se",
+                "role": "Developer"
+            }
+        ],
+        "description": "Process, scale, resize, crop and filter images.",
+        "homepage": "http://dbwebb.se/opensource/cimage",
+        "keywords": [
+            "gd",
+            "image",
+            "imageprocessing"
+        ]
+    },
+    {
+        "name": "mos/anax-flat",
+        "version": "v1.1.10",
+        "version_normalized": "1.1.10.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/canax/anax-flat.git",
+            "reference": "e27c2515aa816d93354b64898b337f69114ae3b0"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/canax/anax-flat/zipball/e27c2515aa816d93354b64898b337f69114ae3b0",
+            "reference": "e27c2515aa816d93354b64898b337f69114ae3b0",
             "shasum": ""
         },
         "require": {
             "mos/anax": "^2.5",
             "mos/cimage": "^0.7",
             "mos/ctextfilter": "^1.2",
+            "php": ">=5.6",
             "symfony/yaml": "^3.1"
         },
         "suggest": {
             "ext-yaml": "*",
             "mustangostang/spyc": "^0.6"
         },
-        "time": "2017-11-02T12:44:57+00:00",
+        "time": "2017-11-07T09:16:15+00:00",
         "type": "library",
         "installation-source": "dist",
         "notification-url": "https://packagist.org/downloads/",

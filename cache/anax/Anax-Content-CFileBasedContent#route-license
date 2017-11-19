@@ -1,0 +1,7 @@
+O:8:"stdClass":7:{s:4:"file";s:10:"license.md";s:7:"section";s:0:"";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:0;s:5:"views";a:3:{s:10:"breadcrumb";a:3:{s:6:"region";s:10:"breadcrumb";s:8:"template";s:18:"default/breadcrumb";s:4:"data";a:2:{s:4:"meta";a:1:{s:4:"type";s:10:"breadcrumb";}s:10:"breadcrumb";a:1:{i:0;a:2:{s:3:"url";s:7:"license";s:4:"text";s:18:"Licenses and Terms";}}}}s:5:"flash";a:3:{s:6:"region";s:5:"flash";s:8:"template";s:13:"default/image";s:4:"data";a:1:{s:3:"src";s:18:"img/dbwebbisar.jpg";}}s:4:"main";a:2:{s:8:"template";s:15:"default/article";s:4:"data";a:2:{s:7:"content";s:210:"<h1>Licenses and Terms</h1>
+
+<p><a href="https://github.com/canax/anax-flat">Anax Flat is available on GitHub</a> using the <a href="https://github.com/canax/anax-flat/blob/master/LICENSE">MIT license</a>.</p>
+";s:7:"excerpt";s:210:"<h1>Licenses and Terms</h1>
+
+<p><a href="https://github.com/canax/anax-flat">Anax Flat is available on GitHub</a> using the <a href="https://github.com/canax/anax-flat/blob/master/LICENSE">MIT license</a>.</p>
+";}}}s:11:"frontmatter";a:1:{s:5:"title";s:18:"Licenses and Terms";}}

@@ -1,17 +1,13 @@
-O:8:"stdClass":7:{s:4:"file";s:8:"about.md";s:7:"section";s:0:"";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:0;s:5:"views";a:3:{s:10:"breadcrumb";a:3:{s:6:"region";s:10:"breadcrumb";s:8:"template";s:18:"default/breadcrumb";s:4:"data";a:2:{s:4:"meta";a:1:{s:4:"type";s:10:"breadcrumb";}s:10:"breadcrumb";a:1:{i:0;a:2:{s:3:"url";s:5:"about";s:4:"text";N;}}}}s:5:"flash";a:3:{s:6:"region";s:5:"flash";s:8:"template";s:13:"default/image";s:4:"data";a:1:{s:3:"src";s:16:"img/pattern3.jpg";}}s:4:"main";a:2:{s:8:"template";s:15:"default/article";s:4:"data";a:2:{s:7:"content";s:335:"<p><img src="http://localhost:8080/design/me/anax-flat/htdocs/img/questionmark.jpg" alt="me" width="25px"></p>
+O:8:"stdClass":7:{s:4:"file";s:8:"about.md";s:7:"section";s:0:"";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:0;s:5:"views";a:3:{s:10:"breadcrumb";a:3:{s:6:"region";s:10:"breadcrumb";s:8:"template";s:18:"default/breadcrumb";s:4:"data";a:2:{s:4:"meta";a:1:{s:4:"type";s:10:"breadcrumb";}s:10:"breadcrumb";a:1:{i:0;a:2:{s:3:"url";s:5:"about";s:4:"text";N;}}}}s:5:"flash";a:3:{s:6:"region";s:5:"flash";s:8:"template";s:13:"default/image";s:4:"data";a:1:{s:3:"src";s:18:"img/dbwebbisar.jpg";}}s:4:"main";a:2:{s:8:"template";s:15:"default/article";s:4:"data";a:2:{s:7:"content";s:337:"<p><img src="http://localhost:8080/design/me/anax-flat/htdocs/img/questionmark.jpg" alt="me" width="25px"></p>
 
 <p>Detta är min me-sida för kursen design.</p>
 
-<p>Click me
-<a href="https://github.com/SebastianKotljarevski/Anax-flat">
-<img src="http://localhost:8080/design/me/anax-flat/htdocs/img/github.png" width="150px">
-</a></p>
-";s:7:"excerpt";s:335:"<p><img src="http://localhost:8080/design/me/anax-flat/htdocs/img/questionmark.jpg" alt="me" width="25px"></p>
+<p><a href="https://github.com/SebastianKotljarevski/Anax-flat">Repo för Anax-flat.</a>
+<a href="https://github.com/SebastianKotljarevski/Anax-flat">Repo för Theme.</a></p>
+";s:7:"excerpt";s:337:"<p><img src="http://localhost:8080/design/me/anax-flat/htdocs/img/questionmark.jpg" alt="me" width="25px"></p>
 
 <p>Detta är min me-sida för kursen design.</p>
 
-<p>Click me
-<a href="https://github.com/SebastianKotljarevski/Anax-flat">
-<img src="http://localhost:8080/design/me/anax-flat/htdocs/img/github.png" width="150px">
-</a></p>
+<p><a href="https://github.com/SebastianKotljarevski/Anax-flat">Repo för Anax-flat.</a>
+<a href="https://github.com/SebastianKotljarevski/Anax-flat">Repo för Theme.</a></p>
 ";}}}s:11:"frontmatter";a:1:{s:5:"title";N;}}

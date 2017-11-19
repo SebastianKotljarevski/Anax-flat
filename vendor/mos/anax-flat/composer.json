@@ -17,6 +17,7 @@
         "issues": "https://github.com/canax/anax-flat/issues"
     },
     "require": {
+        "php": ">=5.6",
         "mos/anax": "^2.5",
         "mos/ctextfilter": "^1.2",
         "mos/cimage": "^0.7",

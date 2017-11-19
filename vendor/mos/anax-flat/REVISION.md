@@ -2,6 +2,32 @@ Revision history
 =======================================
 
 
+v1.1.10 (2017-11-07)
+---------------------------------------
+
+* Makefile site-update did not copy new Makefile.
+
+
+v1.1.9 (2017-11-07)
+---------------------------------------
+
+* Makefile remove target test.
+* Cleanup Makefile all using ECHO.
+
+
+v1.1.8 (2017-11-07)
+---------------------------------------
+
+* Update Makefile structure.
+* Remove make less, less-lint, prepare-build.
+
+
+v1.1.7 (2017-11-06)
+---------------------------------------
+
+* Add php >= 5.6 as requirement.
+
+
 v1.1.6 (2017-11-02)
 v1.1.5 (2017-11-02)
 ---------------------------------------

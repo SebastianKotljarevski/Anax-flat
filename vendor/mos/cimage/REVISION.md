@@ -5,10 +5,17 @@ Revision history
 [![Build Status](https://scrutinizer-ci.com/g/mosbth/cimage/badges/build.png?b=master)](https://scrutinizer-ci.com/g/mosbth/cimage/build-status/master)
 
 
+v0.7.20 (2017-11-06)
+-------------------------------------
+
+* Remove webroot/img/{round8.PNG,wider.JPEG,wider.JPG} to avoid unzip warning message when installing with composer. 
+* Adding docker-compose.yml #169.
+
+
 v0.7.19 (2017-03-31)
 -------------------------------------
 
-* Move exception handler from functions.php to img.php.
+* Move exception handler from functions.php to img.php #166.
 * Correct XSS injection in `check_system.php`.
 * Composer suggests ext-imagick and ext-curl.
 
