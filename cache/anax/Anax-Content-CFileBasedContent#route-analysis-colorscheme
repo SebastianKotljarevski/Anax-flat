@@ -1,0 +1,135 @@
+O:8:"stdClass":7:{s:4:"file";s:27:"analysis/400_colorscheme.md";s:7:"section";s:3:"400";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"views";a:6:{s:10:"breadcrumb";a:3:{s:6:"region";s:10:"breadcrumb";s:8:"template";s:18:"default/breadcrumb";s:4:"data";a:2:{s:4:"meta";a:1:{s:4:"type";s:10:"breadcrumb";}s:10:"breadcrumb";a:2:{i:1;a:2:{s:3:"url";s:9:"analysis/";s:4:"text";s:7:"Reports";}i:0;a:2:{s:3:"url";s:20:"analysis/colorscheme";s:4:"text";s:6:"Analys";}}}}s:5:"flash";a:3:{s:6:"region";s:5:"flash";s:8:"template";s:13:"default/image";s:4:"data";a:1:{s:3:"src";s:18:"img/dbwebbisar.jpg";}}s:19:"next-previous-above";a:4:{s:6:"region";s:4:"main";s:8:"template";s:21:"default/next-previous";s:4:"sort";i:1;s:4:"data";a:4:{s:17:"nextPreviousTitle";b:0;s:4:"meta";a:1:{s:4:"type";s:13:"next-previous";}s:4:"next";N;s:8:"previous";a:10:{s:4:"file";s:21:"analysis/100_intro.md";s:7:"section";s:3:"100";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:12:"Introduction";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:14:"analysis/intro";}}}s:4:"main";a:3:{s:4:"sort";i:2;s:4:"data";a:3:{s:4:"meta";a:1:{s:4:"type";s:8:"toc-sort";}s:7:"content";s:5005:"<h1>Analys</h1>
+
+<h1>Analysera webbsidor kmom04</h1>
+
+<h1>Blocket</h1>
+
+<p><img style="width: 100%" src="http://localhost:8080/design/me/anax-flat/htdocs/img/blocket.png"></p>
+
+<p>använder ett färgschema som är ganska likt exemplet i artikeln “An Introduction to Color Theory for Web Designers” bortsett från det gula. Min tolkning är alltså att de använder sig utav &#8220;Triadic Color Scheme&#8221;.</p>
+
+<p><img src="https://cdn.tutsplus.com/webdesign/uploads/legacy/048_Basix_Color_Theory/tri.jpg" alt="Drawing" style="width: 70px;"/></p>
+
+<p>Blocket kör på en ljus bakgrund med mörk text som ofta hör till vanligheterna. Utöver det använder de en blå färg för knappar och länkar. Denna färg matchar bra till deras röda logga. Som accentfärg tycker jag att de använder sig av en lite mörkare &#8220;vit&#8221; eller en ljusare &#8220;beige&#8221;.</p>
+
+<table style="border-spacing: 4px; border-collapse: separate">
+<tr>
+<td style="height: 50px; width: 50px; background-color: #ef404f">
+<td style="height: 50px; width: 50px; background-color: #0a67c7">
+<td style="height: 50px; width: 50px; background-color: #f9f7f6">
+</tr>
+</table>
+
+<p>På menyn verkar Blocket.se köra &#8220;Open sans&#8221; (Sans-serif) medan rubriker till annonser(H1) kör Roboto Slab (serif). Vanlig brödtext och annat i annonserna verkar dela samma typsnitt som menyn, alltså &#8220;Open sans&#8221;.
+Underrubriker så som &#8220;relaterade annonser&#8221; har dock &#8220;Open sans&#8221; istället för Robot Slab trots att de ändå är rubriker.</p>
+
+<p>Just Blocket.se tror jag har sparat lite av sitt &#8220;gamla&#8221; tema och jag tror dom tänkte att de inte ville göra om sidan allt för mycket när de byggde om sidan och vill fortfarande få sidan att likna ett &#8220;skrivblock&#8221;. Jag tror det gynnar deras affärsidé och att folk känner igen sig gör nog mycket för funktionaliteten.</p>
+
+<h1>Volvo</h1>
+
+<p><br>
+<img src="http://localhost:8080/design/me/anax-flat/htdocs/img/volvo.png" alt="Bild från Volvo Cars hemsida" style="width: 100%;">
+Volvo Cars hemsida använder sig utav en ljus navbar och stora bilder så ögonen dras direkt till bilderna. Om man kollar närmare på bilderna så ser man att dom flesta är lite mörkare vilket hjälper att bryta mot navbaren. Längst ner på sidan ser man också att dom kör på en mörk footer vilket passar bra till dom mörka bilderna.
+Färgschemat dom har valt känner jag gör en lugn, det är inte jobbigt att titta på och bilderna tycker jag visar bra vad man kan hitta på hemsidan. Eftersom alla har ungefär samma färgschema gör det också lättare att titta på. Tycker också att det hjälper att footern är mörk då det inte skär sig när man scrollar ner på hemsidan. Hade fotterna varit i samma färg som navbaren så tror jag det inte hade kompletterat stylen lika bra.
+Om man klickar på en länk, tex Erbjudanden så får man en stor header som tycker hela sidan. När man scrollar ner så blir bakgrunden en ljus färg och all text blir i en mörk färg. Så kontrasten funkar bra. Typsnittet dom använder sig av är ett &#8220;vanligt&#8221; enkelt typsnitt, lätt att läsa och ser professionellt ut. Dom använder sig utav sans-serif till all text på sidan. Dom kör fortfarande på samma färg på footerna vilket jag inte tycker är något problem, hade den vart samma färg som bakgrunden så hade det inte varit lika lätt att hitta vart footern börjar.</p>
+
+<table style="border-spacing: 4px; border-collapse: seperate;">
+<tbody>
+<tr>
+<td style="height: 50px; width: 50px; background-color: #888889">
+<td style="height: 50px; width: 50px; background-color: #FFFFFF">
+<td style="height: 50px; width: 50px; background-color: #000000">
+</tr>
+</tbody>
+<br>
+</table>
+
+<h1>DN</h1>
+
+<p>1:
+<img src="http://localhost:8080/design/me/anax-flat/htdocs/img/dn.png" alt="Bild från DNs hemsida" style="width: 100%;">
+<br />2: DNs hemsida använder tre färger. Rött, vitt och svart.</p>
+
+<div class="colors">
+    <div style="background-color: red; width: 50px; height: 50px; float: left; margin-right: 5px;" class="color1"></div>
+    <div style="background-color: black; width: 50px; height: 50px; float: left; margin-right: 5px;" class="color2"></div>
+    <div style="background-color: white; width: 47px; height: 47px; border-style: solid; float: left;" class="color3"></div>
+</div>
+
+<p><br /><br /><br />
+3: Vi anser att DN inte använder något speciellt färgschema, Men vi ser att de använder de röda för att leda ögonen.
+<br />
+4: Denna designen på sidan använder rött för att få fram de viktigaste delarna. Varje artikel har sitt eget röda streck och underrubriker har en röd prick.
+<br />
+5: Rubriker och en del texten är i H2 och när man går in på en sida är rubriken i H1 men storlek och tjocklek är stylad i css. Sidebar har rubriker i H3. Font family är serif.
+</table></p>
+
+<p>Medlemmar: Jesper Grandien, Markus Holmberg, Sebastian Kullander, Björn Andersson</p>
+";s:7:"excerpt";s:5005:"<h1>Analys</h1>
+
+<h1>Analysera webbsidor kmom04</h1>
+
+<h1>Blocket</h1>
+
+<p><img style="width: 100%" src="http://localhost:8080/design/me/anax-flat/htdocs/img/blocket.png"></p>
+
+<p>använder ett färgschema som är ganska likt exemplet i artikeln “An Introduction to Color Theory for Web Designers” bortsett från det gula. Min tolkning är alltså att de använder sig utav &#8220;Triadic Color Scheme&#8221;.</p>
+
+<p><img src="https://cdn.tutsplus.com/webdesign/uploads/legacy/048_Basix_Color_Theory/tri.jpg" alt="Drawing" style="width: 70px;"/></p>
+
+<p>Blocket kör på en ljus bakgrund med mörk text som ofta hör till vanligheterna. Utöver det använder de en blå färg för knappar och länkar. Denna färg matchar bra till deras röda logga. Som accentfärg tycker jag att de använder sig av en lite mörkare &#8220;vit&#8221; eller en ljusare &#8220;beige&#8221;.</p>
+
+<table style="border-spacing: 4px; border-collapse: separate">
+<tr>
+<td style="height: 50px; width: 50px; background-color: #ef404f">
+<td style="height: 50px; width: 50px; background-color: #0a67c7">
+<td style="height: 50px; width: 50px; background-color: #f9f7f6">
+</tr>
+</table>
+
+<p>På menyn verkar Blocket.se köra &#8220;Open sans&#8221; (Sans-serif) medan rubriker till annonser(H1) kör Roboto Slab (serif). Vanlig brödtext och annat i annonserna verkar dela samma typsnitt som menyn, alltså &#8220;Open sans&#8221;.
+Underrubriker så som &#8220;relaterade annonser&#8221; har dock &#8220;Open sans&#8221; istället för Robot Slab trots att de ändå är rubriker.</p>
+
+<p>Just Blocket.se tror jag har sparat lite av sitt &#8220;gamla&#8221; tema och jag tror dom tänkte att de inte ville göra om sidan allt för mycket när de byggde om sidan och vill fortfarande få sidan att likna ett &#8220;skrivblock&#8221;. Jag tror det gynnar deras affärsidé och att folk känner igen sig gör nog mycket för funktionaliteten.</p>
+
+<h1>Volvo</h1>
+
+<p><br>
+<img src="http://localhost:8080/design/me/anax-flat/htdocs/img/volvo.png" alt="Bild från Volvo Cars hemsida" style="width: 100%;">
+Volvo Cars hemsida använder sig utav en ljus navbar och stora bilder så ögonen dras direkt till bilderna. Om man kollar närmare på bilderna så ser man att dom flesta är lite mörkare vilket hjälper att bryta mot navbaren. Längst ner på sidan ser man också att dom kör på en mörk footer vilket passar bra till dom mörka bilderna.
+Färgschemat dom har valt känner jag gör en lugn, det är inte jobbigt att titta på och bilderna tycker jag visar bra vad man kan hitta på hemsidan. Eftersom alla har ungefär samma färgschema gör det också lättare att titta på. Tycker också att det hjälper att footern är mörk då det inte skär sig när man scrollar ner på hemsidan. Hade fotterna varit i samma färg som navbaren så tror jag det inte hade kompletterat stylen lika bra.
+Om man klickar på en länk, tex Erbjudanden så får man en stor header som tycker hela sidan. När man scrollar ner så blir bakgrunden en ljus färg och all text blir i en mörk färg. Så kontrasten funkar bra. Typsnittet dom använder sig av är ett &#8220;vanligt&#8221; enkelt typsnitt, lätt att läsa och ser professionellt ut. Dom använder sig utav sans-serif till all text på sidan. Dom kör fortfarande på samma färg på footerna vilket jag inte tycker är något problem, hade den vart samma färg som bakgrunden så hade det inte varit lika lätt att hitta vart footern börjar.</p>
+
+<table style="border-spacing: 4px; border-collapse: seperate;">
+<tbody>
+<tr>
+<td style="height: 50px; width: 50px; background-color: #888889">
+<td style="height: 50px; width: 50px; background-color: #FFFFFF">
+<td style="height: 50px; width: 50px; background-color: #000000">
+</tr>
+</tbody>
+<br>
+</table>
+
+<h1>DN</h1>
+
+<p>1:
+<img src="http://localhost:8080/design/me/anax-flat/htdocs/img/dn.png" alt="Bild från DNs hemsida" style="width: 100%;">
+<br />2: DNs hemsida använder tre färger. Rött, vitt och svart.</p>
+
+<div class="colors">
+    <div style="background-color: red; width: 50px; height: 50px; float: left; margin-right: 5px;" class="color1"></div>
+    <div style="background-color: black; width: 50px; height: 50px; float: left; margin-right: 5px;" class="color2"></div>
+    <div style="background-color: white; width: 47px; height: 47px; border-style: solid; float: left;" class="color3"></div>
+</div>
+
+<p><br /><br /><br />
+3: Vi anser att DN inte använder något speciellt färgschema, Men vi ser att de använder de röda för att leda ögonen.
+<br />
+4: Denna designen på sidan använder rött för att få fram de viktigaste delarna. Varje artikel har sitt eget röda streck och underrubriker har en röd prick.
+<br />
+5: Rubriker och en del texten är i H2 och när man går in på en sida är rubriken i H1 men storlek och tjocklek är stylad i css. Sidebar har rubriker i H3. Font family är serif.
+</table></p>
+
+<p>Medlemmar: Jesper Grandien, Markus Holmberg, Sebastian Kullander, Björn Andersson</p>
+";}s:8:"template";s:15:"default/article";}s:19:"next-previous-below";a:4:{s:6:"region";s:4:"main";s:8:"template";s:21:"default/next-previous";s:4:"sort";i:3;s:4:"data";a:4:{s:17:"nextPreviousTitle";b:1;s:4:"meta";a:2:{s:4:"type";s:4:"copy";s:4:"view";s:19:"next-previous-above";}s:4:"next";N;s:8:"previous";a:10:{s:4:"file";s:21:"analysis/100_intro.md";s:7:"section";s:3:"100";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:12:"Introduction";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:14:"analysis/intro";}}}s:3:"toc";a:3:{s:6:"region";s:12:"sidebar-left";s:8:"template";s:11:"default/toc";s:4:"data";a:3:{s:5:"title";s:7:"Reports";s:4:"meta";a:1:{s:4:"type";s:8:"book-toc";}s:3:"toc";a:3:{s:14:"analysis/index";a:9:{s:4:"file";s:21:"analysis/000_index.md";s:7:"section";s:3:"000";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:5:"Index";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:14:"analysis/intro";a:9:{s:4:"file";s:21:"analysis/100_intro.md";s:7:"section";s:3:"100";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:12:"Introduction";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:20:"analysis/colorscheme";a:9:{s:4:"file";s:27:"analysis/400_colorscheme.md";s:7:"section";s:3:"400";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:6:"Analys";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}}}}}s:11:"frontmatter";a:1:{s:5:"title";s:6:"Analys";}}

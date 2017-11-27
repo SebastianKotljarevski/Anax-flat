@@ -13,7 +13,7 @@ Me-sida
 
 Jag heter Sebastian Kullander, 20 år och är född och uppväxt i en liten ort utanför Stockholm. Just nu bor jag i Karlskrona, Rödeby och studerar Webbprogrammering på Blekinge Tekniska Högskola. På fritiden gillar jag att kolla på fotboll och hockey, men bara om Djurgården spelar. annars gillar jag att sitta framför datorn. Mina tidigare erfarenheter av programmering skulle jag säga att dem är grundläggande.
 
-<div style="width:350px; height:100px; background-color:gray;">
+<div class="byline" style="width:350px; height:94px;">
     <img style="float:left;" src="img/berg.jpg" alt="me" width="125px;">
-    Sebastian Kullander, studerar på Blekinge tekniska högskola.
+    <p>Sebastian Kullander, studerar på Blekinge tekniska högskola.</p>
 </div>

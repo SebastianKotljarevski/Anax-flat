@@ -1,0 +1,51 @@
+O:8:"stdClass":7:{s:4:"file";s:8:"theme.md";s:7:"section";s:0:"";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:0;s:5:"views";a:3:{s:10:"breadcrumb";a:3:{s:6:"region";s:10:"breadcrumb";s:8:"template";s:18:"default/breadcrumb";s:4:"data";a:2:{s:4:"meta";a:1:{s:4:"type";s:10:"breadcrumb";}s:10:"breadcrumb";a:1:{i:0;a:2:{s:3:"url";s:5:"theme";s:4:"text";s:6:"themes";}}}}s:5:"flash";a:3:{s:6:"region";s:5:"flash";s:8:"template";s:13:"default/image";s:4:"data";a:1:{s:3:"src";s:18:"img/dbwebbisar.jpg";}}s:4:"main";a:2:{s:8:"template";s:15:"default/article";s:4:"data";a:2:{s:7:"content";s:1960:"<h1>themes</h1>
+
+<h2>Light</h2>
+
+<p>Uppgiften var att skapa ett ljust tema så jag valde att köra på en vid bakgrund på hela sidan och sedan använda mig av
+gråa och svarta färger. Därför gav jag navbaren och footer en ganska ljus grå färg då jag tyckte det blev bättre än med mörkt.
+Sedan så behöll jag en svart färg på texten</p>
+
+<h2>Color</h2>
+
+<p>I detta tema så skulle man ge en färgsättning på temat och använda ett monochromatiskt färgschema. Jag valde att jobba med
+färgen röd. Bakgrunden på sidan gav jag den ljusaste röda färgen, Sedan gav jag navbaren och footern en mörkare röd färg. Texten på sidan valde jag att ha vit då jag tyckte det såg bra ut och passade in med den röda färgen.</p>
+
+<h2>Dark</h2>
+
+<p>I detta tema så skulle man invertera temat light, och använda sig av ett kompletterande färgschema. Jag valde att jobba med färgerna blått, grönt, och rött. Sidans färger blev mest blått och grönt och jag använde bara rött till enstaka grejer. Blå blev den dominerande färger och accentfärgen valde jag att ha som grön. Jag la accentfärgen i navbaren och under rubkriker. Då jag tyckte att detta var det viktigaste att framhäva på hemsidan.</p>
+
+<h2>Colorful</h2>
+
+<p>I detta theme hade jag ett triadiskt färgschema, och man skulle även skapa ett färgfullt tema. Jag valde att jobba med
+färgerna Gult, Orange och blått. de gula och orangea färgerna användes mest och den blå användes på saker som text, länkar och kodsnippets.</p>
+
+<h2>Typography</h2>
+
+<p>Med detta tema så skulle man styla texten på hemsidan. Jag valde att använda temat light och byggde på det. För p taggarna så valde jag att använda fonten Lato. Jag tycker att den fonten är väldigt snygg och passade bra in på sidan. Sedan för rubriker så använde jag mig av ubuntus font vilket jag även passade på sidan och passade bra ihop med Lato. I navbaren använde jag även Lato som font.</p>
+";s:7:"excerpt";s:1960:"<h1>themes</h1>
+
+<h2>Light</h2>
+
+<p>Uppgiften var att skapa ett ljust tema så jag valde att köra på en vid bakgrund på hela sidan och sedan använda mig av
+gråa och svarta färger. Därför gav jag navbaren och footer en ganska ljus grå färg då jag tyckte det blev bättre än med mörkt.
+Sedan så behöll jag en svart färg på texten</p>
+
+<h2>Color</h2>
+
+<p>I detta tema så skulle man ge en färgsättning på temat och använda ett monochromatiskt färgschema. Jag valde att jobba med
+färgen röd. Bakgrunden på sidan gav jag den ljusaste röda färgen, Sedan gav jag navbaren och footern en mörkare röd färg. Texten på sidan valde jag att ha vit då jag tyckte det såg bra ut och passade in med den röda färgen.</p>
+
+<h2>Dark</h2>
+
+<p>I detta tema så skulle man invertera temat light, och använda sig av ett kompletterande färgschema. Jag valde att jobba med färgerna blått, grönt, och rött. Sidans färger blev mest blått och grönt och jag använde bara rött till enstaka grejer. Blå blev den dominerande färger och accentfärgen valde jag att ha som grön. Jag la accentfärgen i navbaren och under rubkriker. Då jag tyckte att detta var det viktigaste att framhäva på hemsidan.</p>
+
+<h2>Colorful</h2>
+
+<p>I detta theme hade jag ett triadiskt färgschema, och man skulle även skapa ett färgfullt tema. Jag valde att jobba med
+färgerna Gult, Orange och blått. de gula och orangea färgerna användes mest och den blå användes på saker som text, länkar och kodsnippets.</p>
+
+<h2>Typography</h2>
+
+<p>Med detta tema så skulle man styla texten på hemsidan. Jag valde att använda temat light och byggde på det. För p taggarna så valde jag att använda fonten Lato. Jag tycker att den fonten är väldigt snygg och passade bra in på sidan. Sedan för rubriker så använde jag mig av ubuntus font vilket jag även passade på sidan och passade bra ihop med Lato. I navbaren använde jag även Lato som font.</p>
+";}}}s:11:"frontmatter";a:1:{s:5:"title";s:6:"themes";}}

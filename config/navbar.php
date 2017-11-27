@@ -38,6 +38,19 @@ return [
                 "url"   => $this->di->get("url")->create("grid"),
                 "title" => t("Grid")
             ],
+
+            "Analysis" => [
+                "text"  => t("Analys"),
+                "url"   => $this->di->get("url")->create("analysis"),
+                "title" => t("Analysis"),
+                "mark-if-parent" => true,
+            ],
+
+            "theme" => [
+                "text"  => t("Theme"),
+                "url"   => $this->di->get("url")->create("theme"),
+                "title" => t("Themes")
+            ],
         ],
     ],
 
