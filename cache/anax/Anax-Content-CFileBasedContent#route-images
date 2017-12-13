@@ -1,0 +1,49 @@
+O:8:"stdClass":7:{s:4:"file";s:9:"images.md";s:7:"section";s:0:"";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:0;s:5:"views";a:3:{s:10:"breadcrumb";a:3:{s:6:"region";s:10:"breadcrumb";s:8:"template";s:18:"default/breadcrumb";s:4:"data";a:2:{s:4:"meta";a:1:{s:4:"type";s:10:"breadcrumb";}s:10:"breadcrumb";a:1:{i:0;a:2:{s:3:"url";s:6:"images";s:4:"text";N;}}}}s:5:"flash";a:3:{s:6:"region";s:5:"flash";s:8:"template";s:13:"default/image";s:4:"data";a:1:{s:3:"src";s:18:"img/dbwebbisar.jpg";}}s:4:"main";a:2:{s:8:"template";s:15:"default/article";s:4:"data";a:2:{s:7:"content";s:1169:"<figure class="figure left">
+<a href="http://localhost:8080/design/me/anax-flat/htdocs/image/dbwebbisar.jpg"><img src="http://localhost:8080/design/me/anax-flat/htdocs/image/dbwebbisar.jpg?w=200&h=150&a=0,20,20,50&cf" alt=""/></a>
+
+</figure>
+
+<figure class="figure right">
+<a href="http://localhost:8080/design/me/anax-flat/htdocs/image/dbwebbisar.jpg"><img src="http://localhost:8080/design/me/anax-flat/htdocs/image/dbwebbisar.jpg?w=500&h=500&a=0,20,20,50&cf" alt=""/></a>
+
+</figure>
+
+<figure class="figure left">
+<a href="http://localhost:8080/design/me/anax-flat/htdocs/image/dbwebbisar.jpg"><img src="http://localhost:8080/design/me/anax-flat/htdocs/image/dbwebbisar.jpg?w=1000&h=200&f=grayscale" alt=""/></a>
+
+</figure>
+
+<figure class="figure right">
+<a href="http://localhost:8080/design/me/anax-flat/htdocs/img/code.png"><img src="http://localhost:8080/design/me/anax-flat/htdocs/img/code.png?w=750&h=750" alt=""/></a>
+
+</figure>
+
+<figure class="figure left">
+<a href="http://localhost:8080/design/me/anax-flat/htdocs/img/dbwebb.png"><img src="http://localhost:8080/design/me/anax-flat/htdocs/img/dbwebb.png?w=500&h=500&a=0,20,20,50&cf" alt=""/></a>
+
+</figure>
+";s:7:"excerpt";s:1169:"<figure class="figure left">
+<a href="http://localhost:8080/design/me/anax-flat/htdocs/image/dbwebbisar.jpg"><img src="http://localhost:8080/design/me/anax-flat/htdocs/image/dbwebbisar.jpg?w=200&h=150&a=0,20,20,50&cf" alt=""/></a>
+
+</figure>
+
+<figure class="figure right">
+<a href="http://localhost:8080/design/me/anax-flat/htdocs/image/dbwebbisar.jpg"><img src="http://localhost:8080/design/me/anax-flat/htdocs/image/dbwebbisar.jpg?w=500&h=500&a=0,20,20,50&cf" alt=""/></a>
+
+</figure>
+
+<figure class="figure left">
+<a href="http://localhost:8080/design/me/anax-flat/htdocs/image/dbwebbisar.jpg"><img src="http://localhost:8080/design/me/anax-flat/htdocs/image/dbwebbisar.jpg?w=1000&h=200&f=grayscale" alt=""/></a>
+
+</figure>
+
+<figure class="figure right">
+<a href="http://localhost:8080/design/me/anax-flat/htdocs/img/code.png"><img src="http://localhost:8080/design/me/anax-flat/htdocs/img/code.png?w=750&h=750" alt=""/></a>
+
+</figure>
+
+<figure class="figure left">
+<a href="http://localhost:8080/design/me/anax-flat/htdocs/img/dbwebb.png"><img src="http://localhost:8080/design/me/anax-flat/htdocs/img/dbwebb.png?w=500&h=500&a=0,20,20,50&cf" alt=""/></a>
+
+</figure>
+";}}}s:11:"frontmatter";a:1:{s:5:"title";N;}}

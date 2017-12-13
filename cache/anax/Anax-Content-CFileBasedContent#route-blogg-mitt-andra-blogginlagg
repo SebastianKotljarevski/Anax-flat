@@ -1,0 +1,44 @@
+O:8:"stdClass":7:{s:4:"file";s:35:"blogg/101_mitt-andra-blogginlagg.md";s:7:"section";s:3:"101";s:5:"level";i:2;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"views";a:7:{s:4:"main";a:2:{s:8:"template";s:17:"default/blog-post";s:4:"data";a:6:{s:4:"meta";a:3:{s:4:"type";s:8:"toc-sort";s:7:"orderby";s:11:"publishTime";s:10:"orderorder";s:4:"desc";}s:6:"author";a:1:{s:6:"seku17";a:1:{s:7:"acronym";s:6:"seku17";}}s:9:"published";s:10:"2016-11-15";s:8:"category";a:1:{s:11:"dagens bild";a:1:{s:3:"key";s:11:"dagens bild";}}s:7:"content";s:1483:"<h1>Stort hus</h1>
+
+<figure class="figure">
+<a href="http://localhost:8080/design/me/anax-flat/htdocs/image/hus.jpg"><img src="http://localhost:8080/design/me/anax-flat/htdocs/image/hus.jpg?w=200&h=200&aro" alt=""/></a>
+
+</figure>
+
+<!--more-->
+
+<h2 id="var"><a class="header-anchor" href="#var">#</a>Var kommer de ifrån?</h2>
+
+<figure class="figure">
+<a href="http://localhost:8080/design/me/anax-flat/htdocs/image/hus.jpg"><img src="http://localhost:8080/design/me/anax-flat/htdocs/image/hus.jpg?w=800&aro" alt=""/></a>
+
+</figure>
+
+<figure class="figure">
+<a href="http://localhost:8080/design/me/anax-flat/htdocs/image/hus.jpg"><img src="http://localhost:8080/design/me/anax-flat/htdocs/image/hus.jpg?w=500&h=500&aro" alt=""/></a>
+
+</figure>
+
+<figure class="figure">
+<a href="http://localhost:8080/design/me/anax-flat/htdocs/image/hus.jpg"><img src="http://localhost:8080/design/me/anax-flat/htdocs/image/hus.jpg?&w=700&aro&scale=5" alt=""/></a>
+
+</figure>
+
+<figure class="figure">
+<a href="http://localhost:8080/design/me/anax-flat/htdocs/image/hus.jpg"><img src="http://localhost:8080/design/me/anax-flat/htdocs/image/hus.jpg?w=300&aro&f=grayscale" alt=""/></a>
+
+</figure>
+
+<p>Bilden togs utanför skolan vid matsalen med min Iphone 5, bilden tog jag för att kunna använda till en uppgift i skolan.
+Bilden är standard inställningar för foto med Iphone och jag har sedan ändrat storlekar, gråskala, scale och sedan roterat eftersom de la sig fel ifrån iphone bilden.</p>
+";s:7:"excerpt";s:232:"<h1>Stort hus</h1>
+
+<figure class="figure">
+<a href="http://localhost:8080/design/me/anax-flat/htdocs/image/hus.jpg"><img src="http://localhost:8080/design/me/anax-flat/htdocs/image/hus.jpg?w=200&h=200&aro" alt=""/></a>
+
+</figure>
+
+";}}s:6:"byline";a:4:{s:6:"region";s:4:"main";s:8:"template";s:14:"default/byline";s:4:"sort";i:2;s:4:"data";a:2:{s:4:"meta";a:1:{s:4:"type";s:6:"author";}s:6:"author";a:1:{s:6:"seku17";a:1:{s:7:"acronym";s:6:"seku17";}}}}s:13:"next-previous";a:4:{s:6:"region";s:4:"main";s:8:"template";s:21:"default/next-previous";s:4:"sort";i:3;s:4:"data";a:3:{s:4:"meta";a:1:{s:4:"type";s:13:"next-previous";}s:4:"next";a:10:{s:4:"file";s:36:"blogg/102_mitt-tredje-blogginlagg.md";s:7:"section";s:3:"102";s:5:"level";i:2;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:10:"Fint träd";s:11:"publishTime";i:1479164400;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:29:"blogg/mitt-tredje-blogginlagg";}s:8:"previous";a:10:{s:4:"file";s:36:"blogg/100_mitt-forsta-blogginlagg.md";s:7:"section";s:3:"100";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:14:"Träd o vatten";s:11:"publishTime";i:1479164400;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:29:"blogg/mitt-forsta-blogginlagg";}}}s:10:"share-this";a:3:{s:6:"region";s:4:"main";s:8:"template";s:13:"default/share";s:4:"sort";i:4;}s:10:"breadcrumb";a:3:{s:6:"region";s:10:"breadcrumb";s:8:"template";s:18:"default/breadcrumb";s:4:"data";a:2:{s:4:"meta";a:1:{s:4:"type";s:10:"breadcrumb";}s:10:"breadcrumb";a:2:{i:1;a:2:{s:3:"url";s:6:"blogg/";s:4:"text";s:14:"Min bild blogg";}i:0;a:2:{s:3:"url";s:28:"blogg/mitt-andra-blogginlagg";s:4:"text";s:9:"Stort hus";}}}}s:11:"article-toc";a:4:{s:6:"region";s:13:"sidebar-right";s:8:"template";s:19:"default/article-toc";s:4:"sort";i:1;s:4:"data";a:2:{s:4:"meta";a:1:{s:4:"type";s:11:"article-toc";}s:10:"articleToc";a:1:{i:0;a:3:{s:5:"level";s:2:"h2";s:5:"title";s:21:"Var kommer de ifrån?";s:2:"id";s:3:"var";}}}}s:11:"block-about";a:5:{s:5:"title";s:14:"Min bild blogg";s:4:"data";a:2:{s:7:"content";s:119:"<h4>Min bild blogg</h4>
+
+<p>Dagens foto presenteras med en kort beskrivning om hur det gick till när bilden togs.</p>
+";s:4:"meta";a:2:{s:4:"type";s:6:"single";s:5:"route";s:13:"./block-about";}}s:6:"region";s:13:"sidebar-right";s:8:"template";s:13:"default/block";s:4:"sort";i:0;}}s:11:"frontmatter";a:4:{s:6:"author";s:6:"seku17";s:9:"published";s:10:"2016-11-15";s:8:"category";a:1:{i:0;s:11:"dagens bild";}s:5:"title";s:9:"Stort hus";}}

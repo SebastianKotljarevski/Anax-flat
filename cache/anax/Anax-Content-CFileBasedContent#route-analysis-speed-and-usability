@@ -1,0 +1,121 @@
+O:8:"stdClass":7:{s:4:"file";s:35:"analysis/500_speed-and-usability.md";s:7:"section";s:3:"500";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"views";a:6:{s:10:"breadcrumb";a:3:{s:6:"region";s:10:"breadcrumb";s:8:"template";s:18:"default/breadcrumb";s:4:"data";a:2:{s:4:"meta";a:1:{s:4:"type";s:10:"breadcrumb";}s:10:"breadcrumb";a:2:{i:1;a:2:{s:3:"url";s:9:"analysis/";s:4:"text";s:7:"Reports";}i:0;a:2:{s:3:"url";s:28:"analysis/speed-and-usability";s:4:"text";s:19:"Speed and usability";}}}}s:5:"flash";a:3:{s:6:"region";s:5:"flash";s:8:"template";s:13:"default/image";s:4:"data";a:1:{s:3:"src";s:18:"img/dbwebbisar.jpg";}}s:19:"next-previous-above";a:4:{s:6:"region";s:4:"main";s:8:"template";s:21:"default/next-previous";s:4:"sort";i:1;s:4:"data";a:4:{s:17:"nextPreviousTitle";b:0;s:4:"meta";a:1:{s:4:"type";s:13:"next-previous";}s:4:"next";N;s:8:"previous";a:10:{s:4:"file";s:27:"analysis/400_colorscheme.md";s:7:"section";s:3:"400";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:6:"Analys";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:20:"analysis/colorscheme";}}}s:4:"main";a:3:{s:4:"sort";i:2;s:4:"data";a:3:{s:4:"meta";a:1:{s:4:"type";s:8:"toc-sort";}s:7:"content";s:4400:"<h1>Speed and usability</h1>
+
+<h1>Analysera webbsidor laddningstid kmom05</h1>
+
+<h1>Mina val</h1>
+
+<p>3: Jag valde att analysera 3 hemsidor som jag använder ofta, dessa är Aftonbladet.se, Reddit.com och Youtube.com</p>
+
+<p>4: För att analysera användbarhet och snabbhet använda jag mig av googles verktyg pagespeed(https://developers.google.com/speed/pagespeed/insights). Jag använde även konsolen för att kolla hur snabbt resurser laddade på hemsidan, och den totala laddningstiden.</p>
+
+<p>5: <a href="https://docs.google.com/spreadsheets/d/1YnQ96kiQLUPPqqCirr6rFfPrUaX-6mYX3zEAPXEAS2Q/edit?usp=sharing">Google kalkylark</a></p>
+
+<p>6:<a href="https://www.aftonbladet.se">Aftonbladet</a>(<a href="https://i.imgur.com/6fAsIOG.jpg">Snapshot</a>), <a href="https://www.aftonbladet.se/kultur">Aftonbladet Kultur</a>(<a href="https://i.imgur.com/puZV012.jpg">Snapshot</a>), <a href="https://www.aftonbladet.se/sportbladet">Aftonbladet Sport</a>(<a href="https://i.imgur.com/JQOJ8Ue.jpg">Snapshot</a>)
+<br>
+<br>
+Aftonbladet skulle kunna förbättra sina hemsidor genom att ha bättre cachning och optimera deras bilder.
+<br>
+<br>
+<a href="https://www.reddit.com">Reddit</a>(<a href="https://i.imgur.com/b7HXxpW.jpg">Snapshot</a>), <a href="https://www.reddit.com/r/funny">Reddit Funny</a>(<a href="https://i.imgur.com/2uVWTNi.jpg">Snapshot</a>), <a href="https://www.reddit.com/r/AskReddit">Reddit AskReddit</a>(<a href="https://i.imgur.com/uhhDPa1.png">Snapshot</a>)
+<br>
+<br>
+Reddits mobilsida är inte gjort på bästa sätt för mobiler utan de vill att man använder en app om man är på mobilen. På senare tid har de lagt mer vikt på den mobilanpassade sidan, men det är väldigt mycket de skulle kunna förbättra. Hemsidan för desktop så skulle de kunna använda sig av bättre cachning och att prioritera synligt innehåll.
+<br>
+<br>
+<a href="https://www.youtube.com/?hl=sv&gl=SE">Youtube</a>(<a href="https://i.imgur.com/RtjYIhD.jpg">Snapshot</a>), <a href="https://gaming.youtube.com">Youtube Gaming</a>(<a href="https://i.imgur.com/vt8zph6.jpg">Snapshot</a>), <a href="https://www.youtube.com/feed/trending">Youtube Trending</a>(<a href="https://i.imgur.com/KpKQR3p.jpg">Snapshot</a>)
+<br>
+<br>
+På startsidan och deras trending sida så var betygen för mobil dåliga. De skulle kunna prioritera synligt innehåll. Bättre cachning, ta bort Javascript och CSS som blockerar rendering, optimera bilder, minska svarstiden ifrån servern och att undvika omdirigeringar. Deras desktop sidor fick  helt okej betyg att det var cachning, optimera bilder och ta bort Javascript och CSS som blockerar rendering. Youtube gaming fick väldigt bra betyg för deras mobil version, Det var bara cachning och att optimera bilder.</p>
+
+<p>7: Då har jag analyserat Aftonbladet, Reddit och Youtube and 3 sidor hos dem. De vanligaste förbättringsåtgärdena är för mobiler var att prioritera synligt innehåll, cachning och optimering av bilder. De vanligaste för desktop var cachning, ta bort Javascript och CSS som blockerar rendering, optimera bilder och att prioritera synligt innehåll.</p>
+
+<p>8: Totalt av alla värden ifrån google pagespeed så kommer aftonbladet först med 453 poäng, Youtube på andra plats med 350poäng och reddit sist med 417 poäng.
+<br>
+<br>
+Bäst laddningstid:
+<br>
+1:Aftonbladet Kultur 2.20s
+<br>
+2:Youtube 2.21s
+<br>
+3:Reddit AskReddit 3.03s
+<br>
+4:Youtube populärt 3.12s
+<br>
+5:Reddit Funny 3.17s
+<br>
+6:Reddit 3.28s
+<br>
+7:Aftonbladet 4.95s
+<br>
+8:Youtube gaming 6.15s
+<br>
+9:Aftonbladet Sport 6.96s
+<br>
+<br>
+Jag tycker att de flesta laddningstider på hemsidorna är okej. Vissa tar långt tid på sig som exempel youtube gaming, men de har väldigt mycket tunga saker att ladda och hemsidas totala storlek var mycket större än de andra. Det ända jag inte förstod varför var hur aftonbladets sportsida kunde ta så långt tid att ladda.</p>
+
+<p>9: Den gräns jag skulle sätta är 4 sekunder, då jag tycker det är helt okej. När det tar längre tid anser jag att det börjas märka mer och blir mer irriterande. Sedan beror det även på vad det är för typ av sida. En sida med bara text kanske inte ska ta 4 sekunder men om youtube tex tar runt 4 sekunder tycker jag det är okej.</p>
+
+<p>10: Jag var sjuk och var hemma under denna uppgift så jag gjorde den i efterhand själv. Så jag skriver bara mitt namn. Sebastian Kullander.</p>
+";s:7:"excerpt";s:4400:"<h1>Speed and usability</h1>
+
+<h1>Analysera webbsidor laddningstid kmom05</h1>
+
+<h1>Mina val</h1>
+
+<p>3: Jag valde att analysera 3 hemsidor som jag använder ofta, dessa är Aftonbladet.se, Reddit.com och Youtube.com</p>
+
+<p>4: För att analysera användbarhet och snabbhet använda jag mig av googles verktyg pagespeed(https://developers.google.com/speed/pagespeed/insights). Jag använde även konsolen för att kolla hur snabbt resurser laddade på hemsidan, och den totala laddningstiden.</p>
+
+<p>5: <a href="https://docs.google.com/spreadsheets/d/1YnQ96kiQLUPPqqCirr6rFfPrUaX-6mYX3zEAPXEAS2Q/edit?usp=sharing">Google kalkylark</a></p>
+
+<p>6:<a href="https://www.aftonbladet.se">Aftonbladet</a>(<a href="https://i.imgur.com/6fAsIOG.jpg">Snapshot</a>), <a href="https://www.aftonbladet.se/kultur">Aftonbladet Kultur</a>(<a href="https://i.imgur.com/puZV012.jpg">Snapshot</a>), <a href="https://www.aftonbladet.se/sportbladet">Aftonbladet Sport</a>(<a href="https://i.imgur.com/JQOJ8Ue.jpg">Snapshot</a>)
+<br>
+<br>
+Aftonbladet skulle kunna förbättra sina hemsidor genom att ha bättre cachning och optimera deras bilder.
+<br>
+<br>
+<a href="https://www.reddit.com">Reddit</a>(<a href="https://i.imgur.com/b7HXxpW.jpg">Snapshot</a>), <a href="https://www.reddit.com/r/funny">Reddit Funny</a>(<a href="https://i.imgur.com/2uVWTNi.jpg">Snapshot</a>), <a href="https://www.reddit.com/r/AskReddit">Reddit AskReddit</a>(<a href="https://i.imgur.com/uhhDPa1.png">Snapshot</a>)
+<br>
+<br>
+Reddits mobilsida är inte gjort på bästa sätt för mobiler utan de vill att man använder en app om man är på mobilen. På senare tid har de lagt mer vikt på den mobilanpassade sidan, men det är väldigt mycket de skulle kunna förbättra. Hemsidan för desktop så skulle de kunna använda sig av bättre cachning och att prioritera synligt innehåll.
+<br>
+<br>
+<a href="https://www.youtube.com/?hl=sv&gl=SE">Youtube</a>(<a href="https://i.imgur.com/RtjYIhD.jpg">Snapshot</a>), <a href="https://gaming.youtube.com">Youtube Gaming</a>(<a href="https://i.imgur.com/vt8zph6.jpg">Snapshot</a>), <a href="https://www.youtube.com/feed/trending">Youtube Trending</a>(<a href="https://i.imgur.com/KpKQR3p.jpg">Snapshot</a>)
+<br>
+<br>
+På startsidan och deras trending sida så var betygen för mobil dåliga. De skulle kunna prioritera synligt innehåll. Bättre cachning, ta bort Javascript och CSS som blockerar rendering, optimera bilder, minska svarstiden ifrån servern och att undvika omdirigeringar. Deras desktop sidor fick  helt okej betyg att det var cachning, optimera bilder och ta bort Javascript och CSS som blockerar rendering. Youtube gaming fick väldigt bra betyg för deras mobil version, Det var bara cachning och att optimera bilder.</p>
+
+<p>7: Då har jag analyserat Aftonbladet, Reddit och Youtube and 3 sidor hos dem. De vanligaste förbättringsåtgärdena är för mobiler var att prioritera synligt innehåll, cachning och optimering av bilder. De vanligaste för desktop var cachning, ta bort Javascript och CSS som blockerar rendering, optimera bilder och att prioritera synligt innehåll.</p>
+
+<p>8: Totalt av alla värden ifrån google pagespeed så kommer aftonbladet först med 453 poäng, Youtube på andra plats med 350poäng och reddit sist med 417 poäng.
+<br>
+<br>
+Bäst laddningstid:
+<br>
+1:Aftonbladet Kultur 2.20s
+<br>
+2:Youtube 2.21s
+<br>
+3:Reddit AskReddit 3.03s
+<br>
+4:Youtube populärt 3.12s
+<br>
+5:Reddit Funny 3.17s
+<br>
+6:Reddit 3.28s
+<br>
+7:Aftonbladet 4.95s
+<br>
+8:Youtube gaming 6.15s
+<br>
+9:Aftonbladet Sport 6.96s
+<br>
+<br>
+Jag tycker att de flesta laddningstider på hemsidorna är okej. Vissa tar långt tid på sig som exempel youtube gaming, men de har väldigt mycket tunga saker att ladda och hemsidas totala storlek var mycket större än de andra. Det ända jag inte förstod varför var hur aftonbladets sportsida kunde ta så långt tid att ladda.</p>
+
+<p>9: Den gräns jag skulle sätta är 4 sekunder, då jag tycker det är helt okej. När det tar längre tid anser jag att det börjas märka mer och blir mer irriterande. Sedan beror det även på vad det är för typ av sida. En sida med bara text kanske inte ska ta 4 sekunder men om youtube tex tar runt 4 sekunder tycker jag det är okej.</p>
+
+<p>10: Jag var sjuk och var hemma under denna uppgift så jag gjorde den i efterhand själv. Så jag skriver bara mitt namn. Sebastian Kullander.</p>
+";}s:8:"template";s:15:"default/article";}s:19:"next-previous-below";a:4:{s:6:"region";s:4:"main";s:8:"template";s:21:"default/next-previous";s:4:"sort";i:3;s:4:"data";a:4:{s:17:"nextPreviousTitle";b:1;s:4:"meta";a:2:{s:4:"type";s:4:"copy";s:4:"view";s:19:"next-previous-above";}s:4:"next";N;s:8:"previous";a:10:{s:4:"file";s:27:"analysis/400_colorscheme.md";s:7:"section";s:3:"400";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:6:"Analys";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:20:"analysis/colorscheme";}}}s:3:"toc";a:3:{s:6:"region";s:12:"sidebar-left";s:8:"template";s:11:"default/toc";s:4:"data";a:3:{s:5:"title";s:7:"Reports";s:4:"meta";a:1:{s:4:"type";s:8:"book-toc";}s:3:"toc";a:4:{s:14:"analysis/index";a:9:{s:4:"file";s:21:"analysis/000_index.md";s:7:"section";s:3:"000";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:5:"Index";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:14:"analysis/intro";a:9:{s:4:"file";s:21:"analysis/100_intro.md";s:7:"section";s:3:"100";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:12:"Introduction";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:20:"analysis/colorscheme";a:9:{s:4:"file";s:27:"analysis/400_colorscheme.md";s:7:"section";s:3:"400";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:6:"Analys";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:28:"analysis/speed-and-usability";a:9:{s:4:"file";s:35:"analysis/500_speed-and-usability.md";s:7:"section";s:3:"500";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:19:"Speed and usability";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}}}}}s:11:"frontmatter";a:1:{s:5:"title";s:19:"Speed and usability";}}
