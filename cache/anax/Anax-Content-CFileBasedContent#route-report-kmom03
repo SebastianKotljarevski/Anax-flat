@@ -1,7 +1,57 @@
-O:8:"stdClass":7:{s:4:"file";s:20:"report/130_kmom03.md";s:7:"section";s:3:"130";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"views";a:6:{s:10:"breadcrumb";a:3:{s:6:"region";s:10:"breadcrumb";s:8:"template";s:18:"default/breadcrumb";s:4:"data";a:2:{s:4:"meta";a:1:{s:4:"type";s:10:"breadcrumb";}s:10:"breadcrumb";a:2:{i:1;a:2:{s:3:"url";s:7:"report/";s:4:"text";s:7:"Reports";}i:0;a:2:{s:3:"url";s:13:"report/kmom03";s:4:"text";s:6:"Kmom03";}}}}s:5:"flash";a:3:{s:6:"region";s:5:"flash";s:8:"template";s:13:"default/image";s:4:"data";a:1:{s:3:"src";s:18:"img/dbwebbisar.jpg";}}s:19:"next-previous-above";a:4:{s:6:"region";s:4:"main";s:8:"template";s:21:"default/next-previous";s:4:"sort";i:1;s:4:"data";a:4:{s:17:"nextPreviousTitle";b:0;s:4:"meta";a:1:{s:4:"type";s:13:"next-previous";}s:4:"next";a:10:{s:4:"file";s:20:"report/140_kmom04.md";s:7:"section";s:3:"140";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:6:"Kmom04";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:13:"report/kmom04";}s:8:"previous";a:10:{s:4:"file";s:20:"report/120_kmom02.md";s:7:"section";s:3:"120";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:6:"Kmom02";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:13:"report/kmom02";}}}s:4:"main";a:3:{s:4:"sort";i:2;s:4:"data";a:3:{s:4:"meta";a:1:{s:4:"type";s:8:"toc-sort";}s:7:"content";s:43:"<h1>Kmom03</h1>
+O:8:"stdClass":7:{s:4:"file";s:20:"report/130_kmom03.md";s:7:"section";s:3:"130";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"views";a:6:{s:10:"breadcrumb";a:3:{s:6:"region";s:10:"breadcrumb";s:8:"template";s:18:"default/breadcrumb";s:4:"data";a:2:{s:4:"meta";a:1:{s:4:"type";s:10:"breadcrumb";}s:10:"breadcrumb";a:2:{i:1;a:2:{s:3:"url";s:7:"report/";s:4:"text";s:7:"Reports";}i:0;a:2:{s:3:"url";s:13:"report/kmom03";s:4:"text";s:6:"Kmom03";}}}}s:5:"flash";a:3:{s:6:"region";s:5:"flash";s:8:"template";s:13:"default/image";s:4:"data";a:1:{s:3:"src";s:18:"img/dbwebbisar.jpg";}}s:19:"next-previous-above";a:4:{s:6:"region";s:4:"main";s:8:"template";s:21:"default/next-previous";s:4:"sort";i:1;s:4:"data";a:4:{s:17:"nextPreviousTitle";b:0;s:4:"meta";a:1:{s:4:"type";s:13:"next-previous";}s:4:"next";a:10:{s:4:"file";s:20:"report/140_kmom04.md";s:7:"section";s:3:"140";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:6:"Kmom04";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:13:"report/kmom04";}s:8:"previous";a:10:{s:4:"file";s:20:"report/120_kmom02.md";s:7:"section";s:3:"120";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:6:"Kmom02";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:13:"report/kmom02";}}}s:4:"main";a:3:{s:4:"sort";i:2;s:4:"data";a:3:{s:4:"meta";a:1:{s:4:"type";s:8:"toc-sort";}s:7:"content";s:2235:"<h1>Kmom03</h1>
 
-<p>Report for kmom03.</p>
-";s:7:"excerpt";s:43:"<h1>Kmom03</h1>
+<p>Hur känns det att vara styrd till ett vertikalt grid, hämmande eller stödjande?</p>
 
-<p>Report for kmom03.</p>
+<p>Jag tycker det känns lite både och, det är väldigt smidigt i hur man kan ändra och placera efter griden, men Jag
+tycker också det var väldigt svårt o förstå hur allting fungerar och hur man kan lägga saker bredvid varanda. som i
+grid.md då man ska ha en sidebar.</p>
+
+<p>Hur känns det att jobba med ett typografiskt horisontellt/baseline grid, ser du någon poäng med det?</p>
+
+<p>Jag ser en poäng i det när man ska styla resten av sidan o jobba med det magiska numret. Men jag tyckte också att det vara
+väldigt svårt att få allting att stämma in, jag försökte använda det magiska numret överallt, för mig funkade inte detta hela vägen och fick använda lite andra värden också. Det kanske blir så eller så är det på mig. Men det var givande att jobba med och jag ser en poäng i det när man stylar sidan, så att man inte bara använder olika mått överallt, utan att om man gör tex en header, och går efter det magiska numret så kunde man lätt räkna ut padding på olika saker.</p>
+
+<p>Berätta om hur du valde typsnitt till din webbplats.</p>
+
+<p>Det var väl inte så mycket tanke bakom, jag valde en font som jag tyckte såg bra ut och förstorade vissa margins och gav de en färg som passade in med restan av hemsidan.</p>
+
+<p>Har du jobbat med liknande layouttekniker sedan tidigare?</p>
+
+<p>Nej jag har aldrig jobbat med vertikala eller horisontala grids tidigare.</p>
+
+<p>Du börjar se hur man kan jobba med LESS, kommentarer på det?</p>
+
+<p>Jag tycker less är väldigt smidigt och samtidigt coolt hur man kan skicka runt variablar och mixins. Ser definitivt att jag kommer använda less när jag gör hemsidor framöver. Det blir också väldigt lätt att ändra värden.</p>
+
+<p>Hur uppfattade du nivån på detta kmom? Svårt, lagom, många nya begrepp?</p>
+
+<p>Enligt mig så var detta kmom jättesvårt, mycket nya tekniker, mycket nytt inom less och sedan så fick jag mycket problem med styling på hemsidan som jag inte visste hur jag skulle lösa riktigt, Jag försökte lösa allting så gått det gick. Men det är mycket jag skulle vilja ha gjort bättre.</p>
+";s:7:"excerpt";s:2235:"<h1>Kmom03</h1>
+
+<p>Hur känns det att vara styrd till ett vertikalt grid, hämmande eller stödjande?</p>
+
+<p>Jag tycker det känns lite både och, det är väldigt smidigt i hur man kan ändra och placera efter griden, men Jag
+tycker också det var väldigt svårt o förstå hur allting fungerar och hur man kan lägga saker bredvid varanda. som i
+grid.md då man ska ha en sidebar.</p>
+
+<p>Hur känns det att jobba med ett typografiskt horisontellt/baseline grid, ser du någon poäng med det?</p>
+
+<p>Jag ser en poäng i det när man ska styla resten av sidan o jobba med det magiska numret. Men jag tyckte också att det vara
+väldigt svårt att få allting att stämma in, jag försökte använda det magiska numret överallt, för mig funkade inte detta hela vägen och fick använda lite andra värden också. Det kanske blir så eller så är det på mig. Men det var givande att jobba med och jag ser en poäng i det när man stylar sidan, så att man inte bara använder olika mått överallt, utan att om man gör tex en header, och går efter det magiska numret så kunde man lätt räkna ut padding på olika saker.</p>
+
+<p>Berätta om hur du valde typsnitt till din webbplats.</p>
+
+<p>Det var väl inte så mycket tanke bakom, jag valde en font som jag tyckte såg bra ut och förstorade vissa margins och gav de en färg som passade in med restan av hemsidan.</p>
+
+<p>Har du jobbat med liknande layouttekniker sedan tidigare?</p>
+
+<p>Nej jag har aldrig jobbat med vertikala eller horisontala grids tidigare.</p>
+
+<p>Du börjar se hur man kan jobba med LESS, kommentarer på det?</p>
+
+<p>Jag tycker less är väldigt smidigt och samtidigt coolt hur man kan skicka runt variablar och mixins. Ser definitivt att jag kommer använda less när jag gör hemsidor framöver. Det blir också väldigt lätt att ändra värden.</p>
+
+<p>Hur uppfattade du nivån på detta kmom? Svårt, lagom, många nya begrepp?</p>
+
+<p>Enligt mig så var detta kmom jättesvårt, mycket nya tekniker, mycket nytt inom less och sedan så fick jag mycket problem med styling på hemsidan som jag inte visste hur jag skulle lösa riktigt, Jag försökte lösa allting så gått det gick. Men det är mycket jag skulle vilja ha gjort bättre.</p>
 ";}s:8:"template";s:15:"default/article";}s:19:"next-previous-below";a:4:{s:6:"region";s:4:"main";s:8:"template";s:21:"default/next-previous";s:4:"sort";i:3;s:4:"data";a:4:{s:17:"nextPreviousTitle";b:1;s:4:"meta";a:2:{s:4:"type";s:4:"copy";s:4:"view";s:19:"next-previous-above";}s:4:"next";a:10:{s:4:"file";s:20:"report/140_kmom04.md";s:7:"section";s:3:"140";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:6:"Kmom04";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:13:"report/kmom04";}s:8:"previous";a:10:{s:4:"file";s:20:"report/120_kmom02.md";s:7:"section";s:3:"120";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:6:"Kmom02";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:13:"report/kmom02";}}}s:3:"toc";a:3:{s:6:"region";s:12:"sidebar-left";s:8:"template";s:11:"default/toc";s:4:"data";a:3:{s:5:"title";s:7:"Reports";s:4:"meta";a:1:{s:4:"type";s:8:"book-toc";}s:3:"toc";a:9:{s:12:"report/index";a:9:{s:4:"file";s:19:"report/000_index.md";s:7:"section";s:3:"000";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:5:"Index";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:12:"report/intro";a:9:{s:4:"file";s:19:"report/100_intro.md";s:7:"section";s:3:"100";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:12:"Introduction";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:13:"report/kmom01";a:9:{s:4:"file";s:20:"report/110_kmom01.md";s:7:"section";s:3:"110";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:6:"Kmom01";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:13:"report/kmom02";a:9:{s:4:"file";s:20:"report/120_kmom02.md";s:7:"section";s:3:"120";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:6:"Kmom02";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:13:"report/kmom03";a:9:{s:4:"file";s:20:"report/130_kmom03.md";s:7:"section";s:3:"130";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:6:"Kmom03";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:13:"report/kmom04";a:9:{s:4:"file";s:20:"report/140_kmom04.md";s:7:"section";s:3:"140";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:6:"Kmom04";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:13:"report/kmom05";a:9:{s:4:"file";s:20:"report/150_kmom05.md";s:7:"section";s:3:"150";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:6:"Kmom05";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:13:"report/kmom06";a:9:{s:4:"file";s:20:"report/160_kmom06.md";s:7:"section";s:3:"160";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:6:"Kmom06";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:13:"report/kmom10";a:9:{s:4:"file";s:20:"report/170_kmom10.md";s:7:"section";s:3:"170";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:6:"Kmom10";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}}}}}s:11:"frontmatter";a:1:{s:5:"title";s:6:"Kmom03";}}

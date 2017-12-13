@@ -51,6 +51,25 @@ return [
                 "url"   => $this->di->get("url")->create("theme"),
                 "title" => t("Themes")
             ],
+
+            "500_speed-and-usability" => [
+                "text"  => t("Speed and usability"),
+                "url"   => $this->di->get("url")->create("analysis"),
+                "title" => t("Analysing Images"),
+                "mark-if-parent" => true,
+            ],
+
+            "images" => [
+                "text"  => t("images"),
+                "url"   => $this->di->get("url")->create("images"),
+                "title" => t("Images"),
+            ],
+
+            "blogg" => [
+                "text"  => t("blogg"),
+                "url"   => $this->di->get("url")->create("blogg"),
+                "title" => t("Blogg"),
+            ],
         ],
     ],
 
